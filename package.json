@@ -18,6 +18,9 @@
     "dev": "nodemon server.js"
   },
   "keywords": [],
+  "engines": {
+    "node": "12.11.0"
+  },
   "author": "Thomas `tomatao` Hudspith-Tatham <iammotivated@gmail.com>",
   "license": "MIT"
 }
